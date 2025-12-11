@@ -46,8 +46,8 @@ El contenido está organizado de forma progresiva en los siguientes módulos:
 
 1.  Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/python-course.git
-    cd python-course
+    git clone https://github.com/Ifcarlitos/python-math-data-course.git
+    cd python-math-data-course
     ```
 
 2.  Crea un entorno virtual (recomendado):
