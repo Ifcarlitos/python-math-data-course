@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/Ifcarlitos/python-math-data-course)
 ![CI Status](https://img.shields.io/github/actions/workflow/status/Ifcarlitos/python-math-data-course/ci.yml)
 
-Bienvenido al repositorio oficial del curso. Este proyecto está diseñado para llevarte desde los fundamentos de la programación en Python hasta un nivel experto en Ciencia de Datos y Machine Learning, con un enfoque riguroso en las matemáticas subyacentes.
+Curso completo de Python: de fundamentos a ciencia de datos, con base matemática y estadística.
 
 ## 🎯 Objetivo
 Proporcionar un recurso educativo estructurado, práctico y riguroso para estudiantes y profesionales que deseen dominar Python como herramienta para el análisis científico y de datos.
