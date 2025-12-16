@@ -21,3 +21,11 @@ En este módulo profundizaremos en la aplicación de Python para resolver proble
 
 ## Objetivos de Aprendizaje
 Aprenderás a traducir problemas matemáticos teóricos en código eficiente, utilizando algoritmos numéricos robustos y herramientas de cálculo simbólico.
+
+## Orden Recomendado
+1. [01_algebra_lineal.ipynb](./01_algebra_lineal.ipynb)
+2. [02_calculo_simbolico.ipynb](./02_calculo_simbolico.ipynb)
+
+## Prerrequisitos
+*   [01_basics](../01_basics).
+*   [02_intermedio](../02_intermedio) (especialmente NumPy).

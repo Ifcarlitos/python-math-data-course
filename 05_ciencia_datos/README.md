@@ -17,3 +17,11 @@ Pandas es la herramienta esencial para la manipulación y análisis de datos est
 
 ## Objetivos de Aprendizaje
 Dominarás la librería Pandas para convertir datos crudos en datasets limpios y listos para análisis o modelado.
+
+## Orden Recomendado
+1. [01_pandas_intro.ipynb](./01_pandas_intro.ipynb)
+2. [02_limpieza_transformacion.ipynb](./02_limpieza_transformacion.ipynb)
+
+## Prerrequisitos
+*   [02_intermedio](../02_intermedio).
+*   [04_estadistica](../04_estadistica).

@@ -17,3 +17,11 @@ Este módulo conecta la teoría estadística con su implementación práctica en
 
 ## Objetivos de Aprendizaje
 Aprenderás a describir datos numéricamente, entender el comportamiento aleatorio mediante distribuciones y tomar decisiones basadas en datos utilizando pruebas estadísticas rigurosas.
+
+## Orden Recomendado
+1. [01_estadistica_descriptiva.ipynb](./01_estadistica_descriptiva.ipynb)
+2. [02_inferencia_test_hipotesis.ipynb](./02_inferencia_test_hipotesis.ipynb)
+
+## Prerrequisitos
+*   [02_intermedio](../02_intermedio).
+*   Deseable: [03_matematicas](../03_matematicas).

@@ -22,3 +22,10 @@ Este módulo introduce las librerías fundamentales del ecosistema científico d
 
 ## Objetivos de Aprendizaje
 Al finalizar, serás capaz de manipular grandes volúmenes de datos numéricos eficientemente y generar visualizaciones de calidad profesional para comunicar tus resultados.
+
+## Orden Recomendado
+1. [01_numpy_intro.ipynb](./01_numpy_intro.ipynb)
+2. [02_matplotlib_visualization.ipynb](./02_matplotlib_visualization.ipynb)
+
+## Prerrequisitos
+*   Conocimientos de [01_basics](../01_basics) (sintaxis básica, listas, funciones).

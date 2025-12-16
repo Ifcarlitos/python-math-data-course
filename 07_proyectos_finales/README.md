@@ -22,3 +22,12 @@ El archivo `data/housing.csv` contiene datos sintéticos con las siguientes colu
 *   `Baños`: Número de cuartos de baño.
 *   `Ubicacion_Centro`: 1 si está en el centro, 0 si está en periferia.
 *   `Año_Construccion`: Año de edificación.
+
+## Objetivos de Aprendizaje
+Integrar todos los conocimientos adquiridos para afrontar un problema de datos de principio a fin.
+
+## Orden Recomendado
+1. [01_analisis_vivienda.ipynb](./01_analisis_vivienda.ipynb)
+
+## Prerrequisitos
+*   Haber completado todos los módulos anteriores (01 al 06).

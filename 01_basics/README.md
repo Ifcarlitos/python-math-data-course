@@ -23,3 +23,12 @@ Este módulo sienta las bases de la programación en Python, enfocándose en las
 
 ## Objetivos de Aprendizaje
 Al finalizar este módulo, serás capaz de escribir scripts básicos en Python, manipular datos simples y entender el flujo de ejecución de un programa.
+
+## Orden Recomendado
+1. [01_intro_python.ipynb](./01_intro_python.ipynb)
+2. [02_estructuras_control.ipynb](./02_estructuras_control.ipynb)
+3. [03_funciones_modulos.ipynb](./03_funciones_modulos.ipynb)
+
+## Prerrequisitos
+*   Ninguno. Este es el punto de partida ideal si no tienes experiencia previa con Python.
+*   Tener instalado Python (o Anaconda) y un entorno para ejecutar Notebooks (Jupyter Lab/Notebook o VS Code).

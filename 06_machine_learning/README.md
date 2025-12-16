@@ -16,3 +16,10 @@ Introducción al aprendizaje automático utilizando la librería estándar de la
 
 ## Objetivos de Aprendizaje
 Entenderás el flujo de trabajo completo de un proyecto de Machine Learning: desde la carga de datos hasta la evaluación del modelo.
+
+## Orden Recomendado
+1. [01_intro_ml_sklearn.ipynb](./01_intro_ml_sklearn.ipynb)
+
+## Prerrequisitos
+*   [05_ciencia_datos](../05_ciencia_datos).
+*   [04_estadistica](../04_estadistica).
