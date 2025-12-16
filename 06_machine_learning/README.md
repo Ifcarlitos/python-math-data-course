@@ -4,7 +4,7 @@ Introducción al aprendizaje automático utilizando la librería estándar de la
 
 ## Contenido
 
-1.  **[Introducción a Machine Learning](./01_intro_ml_sklearn.ipynb)**
+1.  **[Introducción a Machine Learning](./06_01_intro_ml_sklearn.ipynb)**
     *   Aprendizaje Supervisado vs No Supervisado.
     *   Regresión Lineal y Regresión Logística.
     *   Evaluación de modelos (MSE, Accuracy, Matrices de Confusión).
@@ -18,7 +18,7 @@ Introducción al aprendizaje automático utilizando la librería estándar de la
 Entenderás el flujo de trabajo completo de un proyecto de Machine Learning: desde la carga de datos hasta la evaluación del modelo.
 
 ## Orden Recomendado
-1. [01_intro_ml_sklearn.ipynb](./01_intro_ml_sklearn.ipynb)
+1. [01_intro_ml_sklearn.ipynb](./06_01_intro_ml_sklearn.ipynb)
 
 ## Prerrequisitos
 *   [05_ciencia_datos](../05_ciencia_datos).

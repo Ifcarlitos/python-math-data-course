@@ -4,18 +4,18 @@ Este módulo sienta las bases de la programación en Python, enfocándose en las
 
 ## Contenido
 
-1.  **[Introducción a Python](./01_intro_python.ipynb)**
+1.  **[Introducción a Python](./01_01_intro_python.ipynb)**
     *   Entorno Jupyter.
     *   Variables y tipos de datos primitivos.
     *   Operadores aritméticos y lógicos.
     *   Entrada y salida de datos completa.
 
-2.  **[Estructuras de Control](./02_estructuras_control.ipynb)**
+2.  **[Estructuras de Control](./01_02_estructuras_control.ipynb)**
     *   Condicionales (`if`, `elif`, `else`).
     *   Bubles (`for`, `while`).
     *   List comprehensions.
 
-3.  **[Funciones y Modularidad](./03_funciones_modulos.ipynb)**
+3.  **[Funciones y Modularidad](./01_03_funciones_modulos.ipynb)**
     *   Definición de funciones y parámetros.
     *   Scope (alcance) de variables.
     *   Lambda functions.
@@ -25,9 +25,9 @@ Este módulo sienta las bases de la programación en Python, enfocándose en las
 Al finalizar este módulo, serás capaz de escribir scripts básicos en Python, manipular datos simples y entender el flujo de ejecución de un programa.
 
 ## Orden Recomendado
-1. [01_intro_python.ipynb](./01_intro_python.ipynb)
-2. [02_estructuras_control.ipynb](./02_estructuras_control.ipynb)
-3. [03_funciones_modulos.ipynb](./03_funciones_modulos.ipynb)
+1. [01_intro_python.ipynb](./01_01_intro_python.ipynb)
+2. [02_estructuras_control.ipynb](./01_02_estructuras_control.ipynb)
+3. [03_funciones_modulos.ipynb](./01_03_funciones_modulos.ipynb)
 
 ## Prerrequisitos
 *   Ninguno. Este es el punto de partida ideal si no tienes experiencia previa con Python.

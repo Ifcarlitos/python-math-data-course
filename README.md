@@ -1,5 +1,9 @@
 # Curso Completo de Python para Matemáticas, Estadística y Ciencia de Datos
 
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/github/license/Ifcarlitos/python-math-data-course)
+![CI Status](https://img.shields.io/github/actions/workflow/status/Ifcarlitos/python-math-data-course/ci.yml)
+
 Bienvenido al repositorio oficial del curso. Este proyecto está diseñado para llevarte desde los fundamentos de la programación en Python hasta un nivel experto en Ciencia de Datos y Machine Learning, con un enfoque riguroso en las matemáticas subyacentes.
 
 ## 🎯 Objetivo

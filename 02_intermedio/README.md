@@ -4,13 +4,13 @@ Este módulo introduce las librerías fundamentales del ecosistema científico d
 
 ## Contenido
 
-1.  **[Introducción a NumPy](./01_numpy_intro.ipynb)**
+1.  **[Introducción a NumPy](./02_01_numpy_intro.ipynb)**
     *   Arrays N-dimensionales (`ndarray`).
     *   Indexación y Slicing (corte).
     *   Operaciones vectorizadas y Broadcasting.
     *   Álgebra lineal básica.
 
-2.  **[Visualización de Datos](./02_matplotlib_visualization.ipynb)**
+2.  **[Visualización de Datos](./02_02_matplotlib_visualization.ipynb)**
     *   Gráficos de líneas, dispersión y barras con Matplotlib.
     *   Personalización de figuras (títulos, etiquetas, leyendas).
     *   Introducción a Seaborn para gráficos estadísticos.
@@ -24,8 +24,8 @@ Este módulo introduce las librerías fundamentales del ecosistema científico d
 Al finalizar, serás capaz de manipular grandes volúmenes de datos numéricos eficientemente y generar visualizaciones de calidad profesional para comunicar tus resultados.
 
 ## Orden Recomendado
-1. [01_numpy_intro.ipynb](./01_numpy_intro.ipynb)
-2. [02_matplotlib_visualization.ipynb](./02_matplotlib_visualization.ipynb)
+1. [01_numpy_intro.ipynb](./02_01_numpy_intro.ipynb)
+2. [02_matplotlib_visualization.ipynb](./02_02_matplotlib_visualization.ipynb)
 
 ## Prerrequisitos
 *   Conocimientos de [01_basics](../01_basics) (sintaxis básica, listas, funciones).

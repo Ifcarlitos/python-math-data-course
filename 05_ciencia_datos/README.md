@@ -4,12 +4,12 @@ Pandas es la herramienta esencial para la manipulación y análisis de datos est
 
 ## Contenido
 
-1.  **[Introducción a Pandas](./01_pandas_intro.ipynb)**
+1.  **[Introducción a Pandas](./05_01_pandas_intro.ipynb)**
     *   Estructuras de datos: Series y DataFrames.
     *   Carga de datos (CSV, Excel).
     *   Indexación y selección de datos.
 
-2.  **[Limpieza y Transformación (ETL)](./02_limpieza_transformacion.ipynb)**
+2.  **[Limpieza y Transformación (ETL)](./05_02_limpieza_transformacion.ipynb)**
     *   Manejo de valores nulos (missing values).
     *   Filtrado y operaciones condicionales.
     *   Agrupación (`groupby`) y agregación.
@@ -19,8 +19,8 @@ Pandas es la herramienta esencial para la manipulación y análisis de datos est
 Dominarás la librería Pandas para convertir datos crudos en datasets limpios y listos para análisis o modelado.
 
 ## Orden Recomendado
-1. [01_pandas_intro.ipynb](./01_pandas_intro.ipynb)
-2. [02_limpieza_transformacion.ipynb](./02_limpieza_transformacion.ipynb)
+1. [01_pandas_intro.ipynb](./05_01_pandas_intro.ipynb)
+2. [02_limpieza_transformacion.ipynb](./05_02_limpieza_transformacion.ipynb)
 
 ## Prerrequisitos
 *   [02_intermedio](../02_intermedio).

@@ -4,12 +4,12 @@ En este módulo profundizaremos en la aplicación de Python para resolver proble
 
 ## Contenido
 
-1.  **[Álgebra Lineal Avanzada](./01_algebra_lineal.ipynb)**
+1.  **[Álgebra Lineal Avanzada](./03_01_algebra_lineal.ipynb)**
     *   Sistemas de ecuaciones lineales.
     *   Autovalores y autovectores.
     *   Descomposiciones matriciales (LU, QR, SVD).
 
-2.  **[Cálculo Simbólico](./02_calculo_simbolico.ipynb)**
+2.  **[Cálculo Simbólico](./03_02_calculo_simbolico.ipynb)**
     *   Manipulación algebraica con SymPy.
     *   Cálculo de límites, derivadas e integrales simbólicas.
     *   Resolución de ecuaciones diferenciales (EDO).
@@ -23,8 +23,8 @@ En este módulo profundizaremos en la aplicación de Python para resolver proble
 Aprenderás a traducir problemas matemáticos teóricos en código eficiente, utilizando algoritmos numéricos robustos y herramientas de cálculo simbólico.
 
 ## Orden Recomendado
-1. [01_algebra_lineal.ipynb](./01_algebra_lineal.ipynb)
-2. [02_calculo_simbolico.ipynb](./02_calculo_simbolico.ipynb)
+1. [01_algebra_lineal.ipynb](./03_01_algebra_lineal.ipynb)
+2. [02_calculo_simbolico.ipynb](./03_02_calculo_simbolico.ipynb)
 
 ## Prerrequisitos
 *   [01_basics](../01_basics).

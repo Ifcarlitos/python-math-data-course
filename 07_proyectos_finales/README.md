@@ -27,7 +27,7 @@ El archivo `data/housing.csv` contiene datos sintéticos con las siguientes colu
 Integrar todos los conocimientos adquiridos para afrontar un problema de datos de principio a fin.
 
 ## Orden Recomendado
-1. [01_analisis_vivienda.ipynb](./01_analisis_vivienda.ipynb)
+1. [01_analisis_vivienda.ipynb](./07_01_analisis_vivienda.ipynb)
 
 ## Prerrequisitos
 *   Haber completado todos los módulos anteriores (01 al 06).
